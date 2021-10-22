@@ -1,0 +1,15 @@
+C:\Users\win10\Desktop\OOP Files\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\OOP Files\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\win10\Desktop\OOP Files\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Properties.Resources.resources
+C:\Users\win10\Desktop\OOP Files\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.GenerateResource.cache
+C:\Users\win10\Desktop\OOP Files\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\OOP Files\Assignment 1\Assignment 1\obj\Debug\Interop.EnvDTE.dll
+C:\Users\win10\Desktop\OOP Files\Assignment 1\Assignment 1\obj\Debug\Interop.VSLangProj.dll
+C:\Users\win10\Desktop\OOP Files\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.ResolveComReference.cache
+C:\Users\win10\Desktop\OOP Files\Assignment 1\Assignment 1\obj\Debug\Interop.EnvDTE80.dll
+C:\Users\win10\Desktop\OOP Files\Assignment 1\Assignment 1\obj\Debug\Interop.EnvDTE90.dll
+C:\Users\win10\Desktop\OOP Files\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\win10\Desktop\OOP Files\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\win10\Desktop\OOP Files\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\win10\Desktop\OOP Files\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\win10\Desktop\OOP Files\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
